@@ -5,7 +5,7 @@ import 'package:dio/dio.dart';
 void main(List<String> arguments) async {
   var file = File('m2');
   var baseUrl = 'http://localhost:8081/repository/m2/';
-  var version = '3.9.0.0';
+  var version = '3.9.0.5';
   var actifact = 'pangle';
   var fragment = 'io/github/nullptrx/$actifact';
   var vfragment = fragment + '/' + version;
