@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.nullptrx.obfuscator",
+    "module": "xor",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "xor-1.0.0.jar",
+          "url": "xor-1.0.0.jar",
+          "size": 1484,
+          "sha512": "80cf74af151d6b5e90ef7e5e985b0bdb4005884a9425c11a760f2d5d579fd1be1306c00f3844391ce037c4aa423e309616ccb7d7607d7d4d53ed1d4dd564a8c8",
+          "sha256": "d84c307ecb4fc19607e52a20ed99304b5de5e4a1ea427d4e00368d21b6356d7c",
+          "sha1": "6e5d6bdac6ba601a4a87b037cbe3664355742728",
+          "md5": "3b700197f65ad9f6698a76cb20bb057e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "xor-1.0.0.jar",
+          "url": "xor-1.0.0.jar",
+          "size": 1484,
+          "sha512": "80cf74af151d6b5e90ef7e5e985b0bdb4005884a9425c11a760f2d5d579fd1be1306c00f3844391ce037c4aa423e309616ccb7d7607d7d4d53ed1d4dd564a8c8",
+          "sha256": "d84c307ecb4fc19607e52a20ed99304b5de5e4a1ea427d4e00368d21b6356d7c",
+          "sha1": "6e5d6bdac6ba601a4a87b037cbe3664355742728",
+          "md5": "3b700197f65ad9f6698a76cb20bb057e"
+        }
+      ]
+    }
+  ]
+}
