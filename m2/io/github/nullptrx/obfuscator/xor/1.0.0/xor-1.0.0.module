@@ -27,11 +27,11 @@
         {
           "name": "xor-1.0.0.jar",
           "url": "xor-1.0.0.jar",
-          "size": 1484,
-          "sha512": "a7244bbb3f0475f5e3729bd11799674bedf6be5f1be80d5af571b0a9c7a78a7fcbde5e2e0e200af158216e0656e9cf3f13d5167f520cb8aca9b97712aa751bee",
-          "sha256": "328a230b9033f6a1fb27ab1bbb888130781b9be4f8b2db54e00652348d121f44",
-          "sha1": "4f371938301fc5d9fc148024e555a565e3ff1a8e",
-          "md5": "8cae2395b3cf9af3229d6bb863419438"
+          "size": 1491,
+          "sha512": "141b221f82b512b15ffc064b734917177f2669ae4afc0098b456abe5e489060bc676a0146296f3b8811e00e34cd3444ad9bb09f92ed16ab2ba95f76b7f595254",
+          "sha256": "2b3f5058141c128ed5d87cd997dad11053cd58db5bb8d2d2af7660c98e6c46ac",
+          "sha1": "726bc46255933b0473994b6f5e33daf9471750d1",
+          "md5": "7b9600fc55a74d9feefba75c2c51d79b"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "xor-1.0.0.jar",
           "url": "xor-1.0.0.jar",
-          "size": 1484,
-          "sha512": "a7244bbb3f0475f5e3729bd11799674bedf6be5f1be80d5af571b0a9c7a78a7fcbde5e2e0e200af158216e0656e9cf3f13d5167f520cb8aca9b97712aa751bee",
-          "sha256": "328a230b9033f6a1fb27ab1bbb888130781b9be4f8b2db54e00652348d121f44",
-          "sha1": "4f371938301fc5d9fc148024e555a565e3ff1a8e",
-          "md5": "8cae2395b3cf9af3229d6bb863419438"
+          "size": 1491,
+          "sha512": "141b221f82b512b15ffc064b734917177f2669ae4afc0098b456abe5e489060bc676a0146296f3b8811e00e34cd3444ad9bb09f92ed16ab2ba95f76b7f595254",
+          "sha256": "2b3f5058141c128ed5d87cd997dad11053cd58db5bb8d2d2af7660c98e6c46ac",
+          "sha1": "726bc46255933b0473994b6f5e33daf9471750d1",
+          "md5": "7b9600fc55a74d9feefba75c2c51d79b"
         }
       ]
     }
