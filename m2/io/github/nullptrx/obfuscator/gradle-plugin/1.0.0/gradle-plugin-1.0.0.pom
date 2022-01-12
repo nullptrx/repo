@@ -11,8 +11,8 @@
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <name>gradle-plugin</name>
-  <description>A String Obfuscator Library for Android</description>
-  <url>https://github.com/nullptrX/StrObfuscator</url>
+  <description>A Obfuscator Library for Android</description>
+  <url>https://github.com/nullptrX/Obfuscator</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -27,9 +27,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git@github.com:nullptrX/StrObfuscator.git</connection>
-    <developerConnection>scm:git@github.com:nullptrX/StrObfuscator.git</developerConnection>
-    <url>https://github.com/nullptrX/StrObfuscator</url>
+    <connection>scm:git@github.com:nullptrX/Obfuscator.git</connection>
+    <developerConnection>scm:git@github.com:nullptrX/Obfuscator.git</developerConnection>
+    <url>https://github.com/nullptrX/Obfuscator</url>
   </scm>
   <dependencies>
     <dependency>
