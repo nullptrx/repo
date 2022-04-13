@@ -30,7 +30,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.10"
+            "requires": "1.6.20"
           }
         }
       ],
@@ -38,11 +38,11 @@
         {
           "name": "gradle-plugin-1.0.0.jar",
           "url": "gradle-plugin-1.0.0.jar",
-          "size": 49222,
-          "sha512": "0278d8ed26b0e1cdebabdf667b4bc9e5fc928e31652be5ee0a7b269466d1ae6ffeb38c975611d044b942ad3fbbc6ea8d84b9078f041f496424733aa23d4079d3",
-          "sha256": "09202bb0e8c2671860056f28358c136b0f823dc6faccb737693c17bfda44ea09",
-          "sha1": "3614729d551705c5d192e7f9c3d950a0ea637051",
-          "md5": "ddb971304af763617d2716c446366b3d"
+          "size": 53662,
+          "sha512": "99b69a4bab5cdbf1d48dfd69eac8d449efa3d56d12b84f030947021ac5b2facea0745a03bf6ff9d9bed25dc4576dc5a3de332e7bfe49ebcd4ca7ca02a1ae949b",
+          "sha256": "6d5db3207b4cc7758009b6a995db8af0d0e15c5fd5af60c09d0b81811065736e",
+          "sha1": "9d9846f140a7ba47463ce355a3c264e429953f67",
+          "md5": "d142e9357c6de20af887964e53c68c37"
         }
       ]
     },
@@ -69,7 +69,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.10"
+            "requires": "1.6.20"
           }
         }
       ],
@@ -77,11 +77,11 @@
         {
           "name": "gradle-plugin-1.0.0.jar",
           "url": "gradle-plugin-1.0.0.jar",
-          "size": 49222,
-          "sha512": "0278d8ed26b0e1cdebabdf667b4bc9e5fc928e31652be5ee0a7b269466d1ae6ffeb38c975611d044b942ad3fbbc6ea8d84b9078f041f496424733aa23d4079d3",
-          "sha256": "09202bb0e8c2671860056f28358c136b0f823dc6faccb737693c17bfda44ea09",
-          "sha1": "3614729d551705c5d192e7f9c3d950a0ea637051",
-          "md5": "ddb971304af763617d2716c446366b3d"
+          "size": 53662,
+          "sha512": "99b69a4bab5cdbf1d48dfd69eac8d449efa3d56d12b84f030947021ac5b2facea0745a03bf6ff9d9bed25dc4576dc5a3de332e7bfe49ebcd4ca7ca02a1ae949b",
+          "sha256": "6d5db3207b4cc7758009b6a995db8af0d0e15c5fd5af60c09d0b81811065736e",
+          "sha1": "9d9846f140a7ba47463ce355a3c264e429953f67",
+          "md5": "d142e9357c6de20af887964e53c68c37"
         }
       ]
     }
